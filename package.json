@@ -12,5 +12,8 @@
     "ts-node": "^10.9.2",
     "viem": "^1.21.0",
     "wagmi": "^1.4.12"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
   }
 }
